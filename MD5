@@ -1,0 +1,13 @@
+31c52f53f5cf7da8295bd982573b923b *DESCRIPTION
+24aac6bf5c60f8863c74706dd76798f1 *NAMESPACE
+fcba3831e53b3a690a978a058f6b88c2 *R/BSHorizontalStack.R
+28e4a1eff50073025a15be17fdeabf3d *R/BSVerticalStack.R
+35d9c8d150fbcdf652d7af1b9a8a6998 *R/BSstack.R
+cd28c0f40acac55e2646a9d964856090 *R/BSstack_predict.R
+89692d8f0eae7cabfa9e5c76c7f78e1e *README.md
+173199175e0fbef6332f24cc2b80b69b *data/StackData.RData
+641472af0e9afa3fffc6ec392b4ab02e *man/BSHorizontalStack.Rd
+5d8d7f0598d6a6b23f710bab208bce42 *man/BSVerticalStack.Rd
+67b884efc0cd579b6253f2f94035c0f3 *man/BSstack.Rd
+abed66e2de0731134205262372d3945e *man/BSstack_predict.Rd
+afa8ad4d876f401d5b1f0fcfad83c629 *man/StackData.Rd
